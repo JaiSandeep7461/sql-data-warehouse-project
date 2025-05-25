@@ -114,5 +114,5 @@ Hi there! I'm **Sandeep Peela**, also known as **Mobile Developer**. I’m an IT
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini](https://in.linkedin.com/in/sandeeppeela))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://in.linkedin.com/in/sandeeppeela )
 
